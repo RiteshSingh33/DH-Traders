@@ -1,0 +1,14 @@
+/* styles.css */
+
+/* Light Mode Styles */
+body {
+    background-color: rgb(224, 224, 224); /* white background for light mode */
+    color: #333333; /* dark text */
+  }
+  
+  /* Dark Mode Styles */
+  body.dark-mode {
+    background-color: #1a202c; /* dark background for dark mode */
+    color: #f7fafc; /* light text */
+  }
+  
